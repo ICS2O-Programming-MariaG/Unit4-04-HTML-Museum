@@ -1,0 +1,11 @@
+/* Created by: MariaG
+* Created on: May 4, 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit4-04-HTML-Museum
+*/
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  width: 80%;
+  margin: 5% 10%;
+}
