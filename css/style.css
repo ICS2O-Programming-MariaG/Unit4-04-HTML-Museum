@@ -19,16 +19,12 @@ h1 {
 
 #green {
   background-color: #dcf0ce;
-  padding: 40px 60px;
+  padding: 15px 30px;
   margin-right: 30px;
 }
 
-#td-one {
-  width: 65%;
-}
-
-#td-two {
-  width: 35%;
+td {
+  width: 50%;
 }
 
 img {
